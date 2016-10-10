@@ -2,7 +2,7 @@
 // VST Effect Plug-in
 //
 // Filename     : Compressor.cpp
-// Created by   : music424 staff
+// Created by   : music424 
 // Edited by    : Victoria Grace
 // Company      : CCRMA - Stanford
 // Description  :
